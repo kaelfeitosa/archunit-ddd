@@ -1,0 +1,4 @@
+@BoundedContext
+package com.kaelfeitosa.archunitddd.test.fixture.aggregatepartruletest.c4mustbeinsameboundecontextasaggregateroot.whenaggregatepartisdifferentboundedcontextofhisaggregateroot.aggregateroot;
+
+import com.kaelfeitosa.archunitddd.architecture.BoundedContext;

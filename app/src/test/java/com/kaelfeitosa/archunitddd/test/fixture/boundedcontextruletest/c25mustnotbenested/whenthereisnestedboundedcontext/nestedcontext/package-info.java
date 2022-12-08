@@ -1,0 +1,4 @@
+@BoundedContext
+package com.kaelfeitosa.archunitddd.test.fixture.boundedcontextruletest.c25mustnotbenested.whenthereisnestedboundedcontext.nestedcontext;
+
+import com.kaelfeitosa.archunitddd.architecture.BoundedContext;

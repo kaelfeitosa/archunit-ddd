@@ -1,0 +1,4 @@
+@BoundedContext
+package com.kaelfeitosa.archunitddd.test.fixture.boundedcontextruletest.c24mustnothavemodulestereotype.whenthereisnomodulestereotype;
+
+import com.kaelfeitosa.archunitddd.architecture.BoundedContext;
